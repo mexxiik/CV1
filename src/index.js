@@ -87,4 +87,4 @@ const xrHelper = scene.createDefaultXRExperienceAsync({
 
 environment1.setMainColor(Color3.FromHexString("#74b9ff"));
 
-scene.debugLayer.show();
+//scene.debugLayer.show();
